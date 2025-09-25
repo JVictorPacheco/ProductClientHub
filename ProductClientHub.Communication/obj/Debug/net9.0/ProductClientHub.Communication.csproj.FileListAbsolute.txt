@@ -1,0 +1,12 @@
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/bin/Debug/net9.0/ProductClientHub.Communication.deps.json
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/bin/Debug/net9.0/ProductClientHub.Communication.dll
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/bin/Debug/net9.0/ProductClientHub.Communication.pdb
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/obj/Debug/net9.0/ProductClientHub.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/obj/Debug/net9.0/ProductClientHub.Communication.AssemblyInfoInputs.cache
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/obj/Debug/net9.0/ProductClientHub.Communication.AssemblyInfo.cs
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/obj/Debug/net9.0/ProductClientHub.Communication.csproj.CoreCompileInputs.cache
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/obj/Debug/net9.0/ProductClientHub.Communication.sourcelink.json
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/obj/Debug/net9.0/ProductClientHub.Communication.dll
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/obj/Debug/net9.0/refint/ProductClientHub.Communication.dll
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/obj/Debug/net9.0/ProductClientHub.Communication.pdb
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Communication/obj/Debug/net9.0/ref/ProductClientHub.Communication.dll

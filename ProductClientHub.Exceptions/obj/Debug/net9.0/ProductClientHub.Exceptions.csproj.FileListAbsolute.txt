@@ -1,0 +1,12 @@
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/bin/Debug/net9.0/ProductClientHub.Exceptions.deps.json
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/bin/Debug/net9.0/ProductClientHub.Exceptions.dll
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/bin/Debug/net9.0/ProductClientHub.Exceptions.pdb
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net9.0/ProductClientHub.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net9.0/ProductClientHub.Exceptions.AssemblyInfoInputs.cache
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net9.0/ProductClientHub.Exceptions.AssemblyInfo.cs
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net9.0/ProductClientHub.Exceptions.csproj.CoreCompileInputs.cache
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net9.0/ProductClientHub.Exceptions.sourcelink.json
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net9.0/ProductClientHub.Exceptions.dll
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net9.0/refint/ProductClientHub.Exceptions.dll
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net9.0/ProductClientHub.Exceptions.pdb
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net9.0/ref/ProductClientHub.Exceptions.dll
