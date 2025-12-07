@@ -35,3 +35,6 @@
 /Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Api/obj/Debug/net9.0/ProductClientHub.Api.pdb
 /Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Api/obj/Debug/net9.0/ProductClientHub.Api.genruntimeconfig.cache
 /Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Api/obj/Debug/net9.0/ref/ProductClientHub.Api.dll
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/joaopacheco/Desktop/C#-.net/Rockseat_dotnet/ProductClientHub/ProductClientHub.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
